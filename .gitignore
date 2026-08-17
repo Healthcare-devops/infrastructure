@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform executable
+terraform.exe
+
+# Sensitive files
+*.tfvars
+*.tfvars.json
